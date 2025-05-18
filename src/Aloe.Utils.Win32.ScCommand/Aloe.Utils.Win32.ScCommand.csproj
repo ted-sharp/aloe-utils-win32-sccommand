@@ -11,10 +11,10 @@
 		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 		<Version>1.0.0</Version>
 		<Authors>ted-sharp</Authors>
-		<Company></Company>
-		<Description>WindowsのSCコマンドを実行するためのユーティリティライブラリ</Description>
+		<Company>Aloe Utils</Company>
+		<Description>A utility library for executing Windows SC (Service Control) commands programmatically. Provides a simple and type-safe way to manage Windows services.</Description>
 		<PackageId>Aloe.Utils.Win32.ScCommand</PackageId>
-		<PackageTags>win32;sc;service;command;windows</PackageTags>
+		<PackageTags>win32;sc;service;command;windows;service-control;windows-services</PackageTags>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 		<PackageProjectUrl>https://github.com/ted-sharp/aloe-utils-win32-sccommand</PackageProjectUrl>
 		<RepositoryUrl>https://github.com/ted-sharp/aloe-utils-win32-sccommand.git</RepositoryUrl>
