@@ -1,5 +1,8 @@
 # Aloe.Utils.Win32.ScCommand
 
+[![English](https://img.shields.io/badge/Language-English-blue)](./README.md)
+[![日本語](https://img.shields.io/badge/言語-日本語-blue)](./README.ja.md)
+
 [![NuGet Version](https://img.shields.io/nuget/v/Aloe.Utils.Win32.ScCommand.svg)](https://www.nuget.org/packages/Aloe.Utils.Win32.ScCommand)
 [![NuGet Downloads](https://img.shields.io/nuget/dt/Aloe.Utils.Win32.ScCommand.svg)](https://www.nuget.org/packages/Aloe.Utils.Win32.ScCommand)
 [![License](https://img.shields.io/github/license/ted-sharp/aloe-utils-win32-sccommand.svg)](LICENSE)
